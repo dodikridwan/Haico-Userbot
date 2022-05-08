@@ -1,7 +1,7 @@
 {
-  "name": "Kyy-Userbot",
-  "description": "USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/276d22aac9f400898cd27.jpg",
+  "name": "Haico-bot",
+  "description": "Hi, I'm Haico. This account was created to manage your group.",
+  "logo": "https://telegra.ph/file/f19967e70b7e78c785f46.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/muhammadrizky16/Kyy-Userbot/Kyy-Userbot",
   "telegram": "https://t.me/IDnyaKosong",
-  "success_url": "https://t.me/NastyProject",
+  "success_url": "https://t.me/dodikrdwan",
   "stack": "container",
   "env": {
     "API_KEY": {
