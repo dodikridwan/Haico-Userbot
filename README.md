@@ -1,4 +1,4 @@
-<h1 align="center">ҡʏʏ-υѕєявσт</h1>
+<h1 align="center">𝙷𝚊𝚒𝚌𝚘-υѕєявσт</h1>
 
 <p align="center">
     <a href="https://github.com/muhammadrizky16/Kyy-Userbot/commits/Kyy-Userbot"><img src="https://img.shields.io/github/last-commit/muhammadrizky16/Kyy-Userbot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/276d22aac9f400898cd27.jpg">
+  <img src="https://telegra.ph/file/db2ffde4ae8bf3ed4ef45.jpg">
 </p>
 
 
@@ -52,5 +52,6 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 *   [X Not For You](https://github.com/CoeF) CoeF
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot)   Suhu - Userbot
 *   [Sendi](https://github.com/SendiAp/Rose-Userbot)   Rose-Userbot
+*   [Dik's](https://github.com/dodikridwan/Haico-Userbot)   bngung mw isi aph,,
 *   [Skyzu](https://github.com/Skyzu/skyzu-userbot)   skyzu paling ganteng
 *   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
