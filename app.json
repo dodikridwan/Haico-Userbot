@@ -14,6 +14,20 @@
   "success_url": "https://t.me/dodikrdwan",
   "stack": "container",
   "env": {
+    "TOKEN": {
+      "description": "Your bot token. Get one from @BotFather duh",
+      "required": true,
+      "value": ""
+      },
+    "BOT_USERNAME": {
+      "description": "username of your bot without the @",
+      "value": "emiexrobot"
+      },
+    "OWNER_ID": {
+      "description": "Your user ID as an integer.",
+      "required": true,
+      "value": "2088106582"
+     },
     "API_KEY": {
       "description": "Dapatkan Api Key di web my.telegram.org",
       "required": true
