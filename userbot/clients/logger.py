@@ -16,12 +16,11 @@ from userbot import KYY2, KYY3, KYY4, KYY5, bot, branch, tgbot
 from userbot.utils import kyyscrt
 
 MSG_ON = """
-✨**ҡʏʏ-υѕєявσт ʙᴇʀʜᴀsɪʟ ᴅɪᴀᴋғᴛɪғᴋᴀɴ**!!
+✨**𝙷𝚊𝚒𝚌𝚘-υѕєявσт ʙᴇʀʜᴀsɪʟ ᴅɪᴀᴋғᴛɪғᴋᴀɴ**!!
 ━━━━━━━━━━━━━━━
 ➠ **Userbot Version -** `{}@{}`
-➠ **Ketik** `{}ping` **untuk Mengecheck Bot**
+➠ **Ketik** `{}ping` **untuk mengecheck Bot**
 ━━━━━━━━━━━━━━━
-➠ **ᴘᴏᴡᴇʀᴇᴅ ʙʏ :** @NastyProject
 """
 
 
